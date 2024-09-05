@@ -11,7 +11,6 @@ This project implements a basic SAT Solver in C to solve the Boolean Satisfiabil
  
 ## Prerequisites
 To compile and run this project, you'll need:
-
 - A working C compiler (like gcc).
 - Python for running the test scripts.
 - make for building the project.
